@@ -1,5 +1,5 @@
 {
-	"name": "ooxif/laravel-query-param",
+	"name": "bezerrath/laravel-query-param",
 	"description": "Treats binary data in a correct way with Laravel's database system (Eloquent)",
 	"keywords": ["laravel", "eloquent"],
 	"license": "MIT",
